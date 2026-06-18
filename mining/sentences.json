@@ -889,5 +889,803 @@
     ],
     "tags": [],
     "character": ""
+  },
+  {
+    "sentence": "- - - - - 己匹乞匹乞巳匹口么口 tD 口口口口柳一东厂柯一东柏一东 LD 柏一一柏东义口巳东义口 UD 东久口史东八口万一厂史史四史四四寸们心巳人吊巳人吊巳人巳人口己一口己一口己一口己一口火口一一口一口火沥贺林诚沥园一人园林一阜园园园一标一阡一 .",
+    "translation": "I beg my beggar, my mouth, my mouth, my mouth, my mouth, my mouth, my mouth, my mouth, my mouth, my mouth, my mouth, my mouth, my mouth, my mouth, my mouth, my mouth, my mouth, my mouth, my mouth, my mouth, my mouth, my mouth, my mouth.",
+    "audio": "audio/audio_20260618_171128.mp3",
+    "pronunciation": "- - - - -  ji3 pi3 qi3 pi3 qi3 si4 pi3 kou3 me kou3  tD  kou3 kou3 kou3 kou3 liu3 yi1 dong1 chang3 ke1 yi1 dong1 bai3 yi1 dong1  LD  bai3 yi1 yi1 bai3 dong1 yi4 kou3 si4 dong1 yi4 kou3  UD  dong1 jiu3 kou3 shi3 dong1 ba1 kou3 wan4 yi1 chang3 shi3 shi3 si4 shi3 si4 si4 cun4 men xin1 si4 ren2 diao4 si4 ren2 diao4 si4 ren2 si4 ren2 kou3 ji3 yi1 kou3 ji3 yi1 kou3 ji3 yi1 kou3 ji3 yi1 kou3 huo3 kou3 yi1 yi1 kou3 yi1 kou3 huo3 li4 he4 lin2 cheng2 li4 yuan2 yi1 ren2 yuan2 lin2 yi1 fu4 yuan2 yuan2 yuan2 yi1 biao1 yi1 qian1 yi1  .",
+    "lang": "zh",
+    "source": "Game",
+    "timestamp": "20260618_171128",
+    "screenshot": "images/capture.png",
+    "words": [
+      {
+        "word": "-",
+        "pinyin": "-",
+        "definition": ""
+      },
+      {
+        "word": "-",
+        "pinyin": "-",
+        "definition": ""
+      },
+      {
+        "word": "-",
+        "pinyin": "-",
+        "definition": ""
+      },
+      {
+        "word": "-",
+        "pinyin": "-",
+        "definition": ""
+      },
+      {
+        "word": "-",
+        "pinyin": "-",
+        "definition": ""
+      },
+      {
+        "word": "己匹",
+        "pinyin": "ji3 pi3",
+        "definition": ""
+      },
+      {
+        "word": "乞匹",
+        "pinyin": "qi3 pi3",
+        "definition": ""
+      },
+      {
+        "word": "乞巳匹口",
+        "pinyin": "qi3 si4 pi3 kou3",
+        "definition": ""
+      },
+      {
+        "word": "么",
+        "pinyin": "me",
+        "definition": ""
+      },
+      {
+        "word": "口",
+        "pinyin": "kou3",
+        "definition": ""
+      },
+      {
+        "word": "tD",
+        "pinyin": "tD",
+        "definition": ""
+      },
+      {
+        "word": "口口",
+        "pinyin": "kou3 kou3",
+        "definition": ""
+      },
+      {
+        "word": "口口",
+        "pinyin": "kou3 kou3",
+        "definition": ""
+      },
+      {
+        "word": "柳",
+        "pinyin": "liu3",
+        "definition": ""
+      },
+      {
+        "word": "一",
+        "pinyin": "yi1",
+        "definition": ""
+      },
+      {
+        "word": "东厂",
+        "pinyin": "dong1 chang3",
+        "definition": ""
+      },
+      {
+        "word": "柯一东",
+        "pinyin": "ke1 yi1 dong1",
+        "definition": ""
+      },
+      {
+        "word": "柏一东",
+        "pinyin": "bai3 yi1 dong1",
+        "definition": ""
+      },
+      {
+        "word": "LD",
+        "pinyin": "LD",
+        "definition": ""
+      },
+      {
+        "word": "柏",
+        "pinyin": "bai3",
+        "definition": ""
+      },
+      {
+        "word": "一一",
+        "pinyin": "yi1 yi1",
+        "definition": ""
+      },
+      {
+        "word": "柏东义口",
+        "pinyin": "bai3 dong1 yi4 kou3",
+        "definition": ""
+      },
+      {
+        "word": "巳",
+        "pinyin": "si4",
+        "definition": ""
+      },
+      {
+        "word": "东义口",
+        "pinyin": "dong1 yi4 kou3",
+        "definition": ""
+      },
+      {
+        "word": "UD",
+        "pinyin": "UD",
+        "definition": ""
+      },
+      {
+        "word": "东久口",
+        "pinyin": "dong1 jiu3 kou3",
+        "definition": ""
+      },
+      {
+        "word": "史东",
+        "pinyin": "shi3 dong1",
+        "definition": ""
+      },
+      {
+        "word": "八口",
+        "pinyin": "ba1 kou3",
+        "definition": ""
+      },
+      {
+        "word": "万一",
+        "pinyin": "wan4 yi1",
+        "definition": ""
+      },
+      {
+        "word": "厂史",
+        "pinyin": "chang3 shi3",
+        "definition": ""
+      },
+      {
+        "word": "史",
+        "pinyin": "shi3",
+        "definition": ""
+      },
+      {
+        "word": "四史",
+        "pinyin": "si4 shi3",
+        "definition": ""
+      },
+      {
+        "word": "四",
+        "pinyin": "si4",
+        "definition": ""
+      },
+      {
+        "word": "四寸",
+        "pinyin": "si4 cun4",
+        "definition": ""
+      },
+      {
+        "word": "们",
+        "pinyin": "men",
+        "definition": ""
+      },
+      {
+        "word": "心",
+        "pinyin": "xin1",
+        "definition": ""
+      },
+      {
+        "word": "巳",
+        "pinyin": "si4",
+        "definition": ""
+      },
+      {
+        "word": "人",
+        "pinyin": "ren2",
+        "definition": ""
+      },
+      {
+        "word": "吊",
+        "pinyin": "diao4",
+        "definition": ""
+      },
+      {
+        "word": "巳",
+        "pinyin": "si4",
+        "definition": ""
+      },
+      {
+        "word": "人",
+        "pinyin": "ren2",
+        "definition": ""
+      },
+      {
+        "word": "吊",
+        "pinyin": "diao4",
+        "definition": ""
+      },
+      {
+        "word": "巳",
+        "pinyin": "si4",
+        "definition": ""
+      },
+      {
+        "word": "人",
+        "pinyin": "ren2",
+        "definition": ""
+      },
+      {
+        "word": "巳",
+        "pinyin": "si4",
+        "definition": ""
+      },
+      {
+        "word": "人口",
+        "pinyin": "ren2 kou3",
+        "definition": ""
+      },
+      {
+        "word": "己",
+        "pinyin": "ji3",
+        "definition": ""
+      },
+      {
+        "word": "一口",
+        "pinyin": "yi1 kou3",
+        "definition": ""
+      },
+      {
+        "word": "己",
+        "pinyin": "ji3",
+        "definition": ""
+      },
+      {
+        "word": "一口",
+        "pinyin": "yi1 kou3",
+        "definition": ""
+      },
+      {
+        "word": "己",
+        "pinyin": "ji3",
+        "definition": ""
+      },
+      {
+        "word": "一口",
+        "pinyin": "yi1 kou3",
+        "definition": ""
+      },
+      {
+        "word": "己",
+        "pinyin": "ji3",
+        "definition": ""
+      },
+      {
+        "word": "一口",
+        "pinyin": "yi1 kou3",
+        "definition": ""
+      },
+      {
+        "word": "火口",
+        "pinyin": "huo3 kou3",
+        "definition": ""
+      },
+      {
+        "word": "一",
+        "pinyin": "yi1",
+        "definition": ""
+      },
+      {
+        "word": "一口",
+        "pinyin": "yi1 kou3",
+        "definition": ""
+      },
+      {
+        "word": "一口",
+        "pinyin": "yi1 kou3",
+        "definition": ""
+      },
+      {
+        "word": "火沥贺",
+        "pinyin": "huo3 li4 he4",
+        "definition": ""
+      },
+      {
+        "word": "林诚",
+        "pinyin": "lin2 cheng2",
+        "definition": ""
+      },
+      {
+        "word": "沥园",
+        "pinyin": "li4 yuan2",
+        "definition": ""
+      },
+      {
+        "word": "一人",
+        "pinyin": "yi1 ren2",
+        "definition": ""
+      },
+      {
+        "word": "园林",
+        "pinyin": "yuan2 lin2",
+        "definition": ""
+      },
+      {
+        "word": "一阜园",
+        "pinyin": "yi1 fu4 yuan2",
+        "definition": ""
+      },
+      {
+        "word": "园园",
+        "pinyin": "yuan2 yuan2",
+        "definition": ""
+      },
+      {
+        "word": "一标",
+        "pinyin": "yi1 biao1",
+        "definition": ""
+      },
+      {
+        "word": "一阡一",
+        "pinyin": "yi1 qian1 yi1",
+        "definition": ""
+      },
+      {
+        "word": ".",
+        "pinyin": ".",
+        "definition": ""
+      }
+    ],
+    "tags": [],
+    "character": ""
+  },
+  {
+    "sentence": "火火 UD 火 UD 下巳巳巳四巳凶巳乡一三万万万万忍匹性匹柳匹 EE 杜匹氏忘巳凶一史一凶一巳凶八巳切团化 CN 化 CN 化 CN 化 CN 团与欠与欠与欠与欠与匹一口工一口工火口火口火口化口万口化口早口巳必巫丁巫丁左不巧仁不下口口 CQ CQ 口一一口合四一口吊四人口团人口四人史一工仁火工亿火工亿火己人",
+    "translation": "Fire, fire, fire, fire, fire, fire, fire, fire, fire, fire, fire, fire, fire, fire, fire, fire, fire, fire, fire, fire, fire, fire, fire, fire, fire, fire, fire, fire, fire, fire, fire, fire, fire, fire, fire, fire, fire, fire, fire, fire, fire, fire, fire, fire, fire, fire, fire, fire, fire, fire, fire, fire, fire, fire, fire, fire, fire, fire, fire, fire, fire. Mouth mouth fire mouth fire mouth fire mouth melt mouth ten thousand mouth melt mouth early mouth has to be Wu Ding Wu Ding Zuo Bu Qiao Ren not down mouth mouth mouth one mouth combined four one mouth hanging four population group population four people history one workman fire work billion fire work billion fire own people",
+    "audio": "audio/audio_20260618_171128.mp3",
+    "pronunciation": "huo3 huo3  UD  huo3  UD  xia4 si4 si4 si4 si4 si4 xiong1 si4 xiang1 yi1 san1 wan4 wan4 wan4 wan4 ren3 pi3 xing4 pi3 liu3 pi3  EE  du4 pi3 shi4 wang4 si4 xiong1 yi1 shi3 yi1 xiong1 yi1 si4 xiong1 ba1 si4 qie4 tuan2 hua4  CN  hua4  CN  hua4  CN  hua4  CN  tuan2 yu3 qian4 yu3 qian4 yu3 qian4 yu3 qian4 yu3 pi3 yi1 kou3 gong1 yi1 kou3 gong1 huo3 kou3 huo3 kou3 huo3 kou3 hua4 kou3 wan4 kou3 hua4 kou3 zao3 kou3 si4 bi4 wu1 ding1 wu1 ding1 zuo3 bu4 qiao3 ren2 bu4 xia4 kou3 kou3  CQ CQ  kou3 yi1 yi1 kou3 he2 si4 yi1 kou3 diao4 si4 ren2 kou3 tuan2 ren2 kou3 si4 ren2 shi3 yi1 gong1 ren2 huo3 gong1 yi4 huo3 gong1 yi4 huo3 ji3 ren2",
+    "lang": "zh",
+    "source": "Game",
+    "timestamp": "20260618_171128",
+    "screenshot": "images/capture.png",
+    "words": [
+      {
+        "word": "火火",
+        "pinyin": "huo3 huo3",
+        "definition": ""
+      },
+      {
+        "word": "UD",
+        "pinyin": "UD",
+        "definition": ""
+      },
+      {
+        "word": "火",
+        "pinyin": "huo3",
+        "definition": ""
+      },
+      {
+        "word": "UD",
+        "pinyin": "UD",
+        "definition": ""
+      },
+      {
+        "word": "下",
+        "pinyin": "xia4",
+        "definition": ""
+      },
+      {
+        "word": "巳",
+        "pinyin": "si4",
+        "definition": ""
+      },
+      {
+        "word": "巳",
+        "pinyin": "si4",
+        "definition": ""
+      },
+      {
+        "word": "巳",
+        "pinyin": "si4",
+        "definition": ""
+      },
+      {
+        "word": "四",
+        "pinyin": "si4",
+        "definition": ""
+      },
+      {
+        "word": "巳",
+        "pinyin": "si4",
+        "definition": ""
+      },
+      {
+        "word": "凶",
+        "pinyin": "xiong1",
+        "definition": ""
+      },
+      {
+        "word": "巳",
+        "pinyin": "si4",
+        "definition": ""
+      },
+      {
+        "word": "乡",
+        "pinyin": "xiang1",
+        "definition": ""
+      },
+      {
+        "word": "一",
+        "pinyin": "yi1",
+        "definition": ""
+      },
+      {
+        "word": "三",
+        "pinyin": "san1",
+        "definition": ""
+      },
+      {
+        "word": "万万",
+        "pinyin": "wan4 wan4",
+        "definition": ""
+      },
+      {
+        "word": "万万",
+        "pinyin": "wan4 wan4",
+        "definition": ""
+      },
+      {
+        "word": "忍匹性",
+        "pinyin": "ren3 pi3 xing4",
+        "definition": ""
+      },
+      {
+        "word": "匹",
+        "pinyin": "pi3",
+        "definition": ""
+      },
+      {
+        "word": "柳匹",
+        "pinyin": "liu3 pi3",
+        "definition": ""
+      },
+      {
+        "word": "EE",
+        "pinyin": "EE",
+        "definition": ""
+      },
+      {
+        "word": "杜匹氏",
+        "pinyin": "du4 pi3 shi4",
+        "definition": ""
+      },
+      {
+        "word": "忘",
+        "pinyin": "wang4",
+        "definition": ""
+      },
+      {
+        "word": "巳",
+        "pinyin": "si4",
+        "definition": ""
+      },
+      {
+        "word": "凶",
+        "pinyin": "xiong1",
+        "definition": ""
+      },
+      {
+        "word": "一史",
+        "pinyin": "yi1 shi3",
+        "definition": ""
+      },
+      {
+        "word": "一凶",
+        "pinyin": "yi1 xiong1",
+        "definition": ""
+      },
+      {
+        "word": "一巳",
+        "pinyin": "yi1 si4",
+        "definition": ""
+      },
+      {
+        "word": "凶八巳切",
+        "pinyin": "xiong1 ba1 si4 qie4",
+        "definition": ""
+      },
+      {
+        "word": "团化",
+        "pinyin": "tuan2 hua4",
+        "definition": ""
+      },
+      {
+        "word": "CN",
+        "pinyin": "CN",
+        "definition": ""
+      },
+      {
+        "word": "化",
+        "pinyin": "hua4",
+        "definition": ""
+      },
+      {
+        "word": "CN",
+        "pinyin": "CN",
+        "definition": ""
+      },
+      {
+        "word": "化",
+        "pinyin": "hua4",
+        "definition": ""
+      },
+      {
+        "word": "CN",
+        "pinyin": "CN",
+        "definition": ""
+      },
+      {
+        "word": "化",
+        "pinyin": "hua4",
+        "definition": ""
+      },
+      {
+        "word": "CN",
+        "pinyin": "CN",
+        "definition": ""
+      },
+      {
+        "word": "团",
+        "pinyin": "tuan2",
+        "definition": ""
+      },
+      {
+        "word": "与",
+        "pinyin": "yu3",
+        "definition": ""
+      },
+      {
+        "word": "欠",
+        "pinyin": "qian4",
+        "definition": ""
+      },
+      {
+        "word": "与",
+        "pinyin": "yu3",
+        "definition": ""
+      },
+      {
+        "word": "欠",
+        "pinyin": "qian4",
+        "definition": ""
+      },
+      {
+        "word": "与",
+        "pinyin": "yu3",
+        "definition": ""
+      },
+      {
+        "word": "欠",
+        "pinyin": "qian4",
+        "definition": ""
+      },
+      {
+        "word": "与",
+        "pinyin": "yu3",
+        "definition": ""
+      },
+      {
+        "word": "欠",
+        "pinyin": "qian4",
+        "definition": ""
+      },
+      {
+        "word": "与",
+        "pinyin": "yu3",
+        "definition": ""
+      },
+      {
+        "word": "匹",
+        "pinyin": "pi3",
+        "definition": ""
+      },
+      {
+        "word": "一口",
+        "pinyin": "yi1 kou3",
+        "definition": ""
+      },
+      {
+        "word": "工",
+        "pinyin": "gong1",
+        "definition": ""
+      },
+      {
+        "word": "一口",
+        "pinyin": "yi1 kou3",
+        "definition": ""
+      },
+      {
+        "word": "工",
+        "pinyin": "gong1",
+        "definition": ""
+      },
+      {
+        "word": "火口",
+        "pinyin": "huo3 kou3",
+        "definition": ""
+      },
+      {
+        "word": "火口",
+        "pinyin": "huo3 kou3",
+        "definition": ""
+      },
+      {
+        "word": "火口",
+        "pinyin": "huo3 kou3",
+        "definition": ""
+      },
+      {
+        "word": "化口",
+        "pinyin": "hua4 kou3",
+        "definition": ""
+      },
+      {
+        "word": "万口",
+        "pinyin": "wan4 kou3",
+        "definition": ""
+      },
+      {
+        "word": "化口",
+        "pinyin": "hua4 kou3",
+        "definition": ""
+      },
+      {
+        "word": "早口",
+        "pinyin": "zao3 kou3",
+        "definition": ""
+      },
+      {
+        "word": "巳",
+        "pinyin": "si4",
+        "definition": ""
+      },
+      {
+        "word": "必",
+        "pinyin": "bi4",
+        "definition": ""
+      },
+      {
+        "word": "巫丁",
+        "pinyin": "wu1 ding1",
+        "definition": ""
+      },
+      {
+        "word": "巫丁",
+        "pinyin": "wu1 ding1",
+        "definition": ""
+      },
+      {
+        "word": "左",
+        "pinyin": "zuo3",
+        "definition": ""
+      },
+      {
+        "word": "不巧",
+        "pinyin": "bu4 qiao3",
+        "definition": ""
+      },
+      {
+        "word": "仁",
+        "pinyin": "ren2",
+        "definition": ""
+      },
+      {
+        "word": "不下",
+        "pinyin": "bu4 xia4",
+        "definition": ""
+      },
+      {
+        "word": "口",
+        "pinyin": "kou3",
+        "definition": ""
+      },
+      {
+        "word": "口",
+        "pinyin": "kou3",
+        "definition": ""
+      },
+      {
+        "word": "CQ",
+        "pinyin": "CQ",
+        "definition": ""
+      },
+      {
+        "word": "CQ",
+        "pinyin": "CQ",
+        "definition": ""
+      },
+      {
+        "word": "口一",
+        "pinyin": "kou3 yi1",
+        "definition": ""
+      },
+      {
+        "word": "一口",
+        "pinyin": "yi1 kou3",
+        "definition": ""
+      },
+      {
+        "word": "合四",
+        "pinyin": "he2 si4",
+        "definition": ""
+      },
+      {
+        "word": "一口",
+        "pinyin": "yi1 kou3",
+        "definition": ""
+      },
+      {
+        "word": "吊四",
+        "pinyin": "diao4 si4",
+        "definition": ""
+      },
+      {
+        "word": "人口",
+        "pinyin": "ren2 kou3",
+        "definition": ""
+      },
+      {
+        "word": "团",
+        "pinyin": "tuan2",
+        "definition": ""
+      },
+      {
+        "word": "人口",
+        "pinyin": "ren2 kou3",
+        "definition": ""
+      },
+      {
+        "word": "四人史",
+        "pinyin": "si4 ren2 shi3",
+        "definition": ""
+      },
+      {
+        "word": "一工仁",
+        "pinyin": "yi1 gong1 ren2",
+        "definition": ""
+      },
+      {
+        "word": "火工",
+        "pinyin": "huo3 gong1",
+        "definition": ""
+      },
+      {
+        "word": "亿",
+        "pinyin": "yi4",
+        "definition": ""
+      },
+      {
+        "word": "火工",
+        "pinyin": "huo3 gong1",
+        "definition": ""
+      },
+      {
+        "word": "亿火己",
+        "pinyin": "yi4 huo3 ji3",
+        "definition": ""
+      },
+      {
+        "word": "人",
+        "pinyin": "ren2",
+        "definition": ""
+      }
+    ],
+    "tags": [],
+    "character": ""
   }
 ]

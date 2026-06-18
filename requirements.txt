@@ -1,0 +1,12 @@
+pillow>=10.0.0
+numpy>=1.24.0
+scipy>=1.10.0
+pytesseract>=0.3.10
+deep-translator>=1.11.0
+flask>=3.0.0
+websockets>=12.0
+rapidfuzz>=3.0.0
+regex>=2023.0.0
+jieba>=0.42.1
+pypinyin>=0.48.0
+romkan>=0.2.1

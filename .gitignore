@@ -3,6 +3,4 @@ __pycache__/
 *.pyo
 mining/
 test_images/
-docs/
 lib/
-tests/

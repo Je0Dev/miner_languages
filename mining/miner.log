@@ -2494,3 +2494,80 @@ websockets.exceptions.InvalidUpgrade: invalid Connection header: keep-alive
 Translation: Feedback on All Things Illustrated Map Backpack
 Se
 2026-05-16 16:12:01,414 [INFO] Clipboard #12: 万物图鉴地图背包反馈 -> Feedback on All Things Illustrated Map Backpack
+2026-06-18 17:07:58,578 [INFO] Notification: [Mining] Capture cancelled
+2026-06-18 17:07:58,900 [INFO] Backup created: /home/mastroni/Desktop/cloned_repos/Je0Dev/miner-v2/mining/backups/backup_20260618_170758
+2026-06-18 17:08:29,427 [INFO] Exported 2 entries to /home/mastroni/Desktop/cloned_repos/Je0Dev/miner-v2/mining/test_anki_export.csv
+2026-06-18 17:08:29,982 [INFO] Tesseract pre-warmed (eng)
+2026-06-18 17:09:17,150 [INFO] Backup created: /home/mastroni/Desktop/cloned_repos/Je0Dev/miner-v2/mining/backups/backup_20260618_170917
+2026-06-18 17:09:21,792 [INFO] Exported 2 entries to /home/mastroni/Desktop/cloned_repos/Je0Dev/miner-v2/mining/test_anki_export.csv
+2026-06-18 17:09:22,487 [INFO] Tesseract pre-warmed (eng)
+2026-06-18 17:10:04,384 [INFO] Backup created: /home/mastroni/Desktop/cloned_repos/Je0Dev/miner-v2/mining/backups/backup_20260618_171004
+2026-06-18 17:10:04,385 [INFO] Removed old backup: /home/mastroni/Desktop/cloned_repos/Je0Dev/miner-v2/mining/backups/backup_20260516_141301
+2026-06-18 17:10:08,780 [INFO] Copied to clipboard: test clipboard content
+2026-06-18 17:10:08,793 [INFO] Notification: [Test] Notification test
+2026-06-18 17:10:11,703 [INFO] Zone saved: zone_a (0,0 100x50)
+2026-06-18 17:10:11,703 [INFO] Zone saved: zone_b (100,100 200x50)
+2026-06-18 17:10:11,703 [INFO] Zone deleted: zone_a
+2026-06-18 17:10:11,704 [INFO] Zone deleted: zone_b
+2026-06-18 17:10:11,704 [INFO] Zone saved: test_zone (100,100 200x50)
+2026-06-18 17:10:11,704 [INFO] Zone deleted: test_zone
+2026-06-18 17:10:32,077 [INFO] Exported 2 entries to /home/mastroni/Desktop/cloned_repos/Je0Dev/miner-v2/mining/test_anki_export.csv
+2026-06-18 17:10:32,629 [INFO] Tesseract pre-warmed (eng)
+2026-06-18 17:11:10,328 [INFO] Backup created: /home/mastroni/Desktop/cloned_repos/Je0Dev/miner-v2/mining/backups/backup_20260618_171110
+2026-06-18 17:11:10,328 [INFO] Removed old backup: /home/mastroni/Desktop/cloned_repos/Je0Dev/miner-v2/mining/backups/backup_20260516_141512
+2026-06-18 17:11:13,553 [INFO] Copied to clipboard: test clipboard content
+2026-06-18 17:11:13,579 [INFO] Notification: [Test] Notification test
+2026-06-18 17:11:15,849 [INFO] Zone saved: zone_a (0,0 100x50)
+2026-06-18 17:11:15,849 [INFO] Zone saved: zone_b (100,100 200x50)
+2026-06-18 17:11:15,849 [INFO] Zone deleted: zone_a
+2026-06-18 17:11:15,849 [INFO] Zone deleted: zone_b
+2026-06-18 17:11:15,850 [INFO] Zone saved: test_zone (100,100 200x50)
+2026-06-18 17:11:15,850 [INFO] Zone deleted: test_zone
+2026-06-18 17:11:31,384 [INFO] Captured region: 1415,175 198x312
+2026-06-18 17:11:31,862 [INFO] Tesseract pre-warmed (chi_sim)
+2026-06-18 17:11:37,225 [INFO] Mining: - - - - - 己匹乞匹乞巳匹口么口 tD 口口口口柳一东厂柯一东柏一东 LD 柏一一柏东义口巳东义口 UD 东久口
+2026-06-18 17:11:38,566 [INFO] Recording audio from: alsa_output.pci-0000_01_00.1.hdmi-stereo.monitor
+2026-06-18 17:11:43,882 [INFO] Audio recording: success
+2026-06-18 17:11:44,800 [DEBUG] Building prefix dict from the default dictionary ...
+2026-06-18 17:11:45,286 [DEBUG] Dumping model to file cache /tmp/jieba.cache
+2026-06-18 17:11:45,349 [DEBUG] Loading model cost 0.549 seconds.
+2026-06-18 17:11:45,349 [DEBUG] Prefix dict has been built successfully.
+2026-06-18 17:11:46,251 [INFO] Copied to clipboard: - - - - - 己匹乞匹乞巳匹口么口 tD 口口口口柳一东厂柯一东柏一东 LD 柏一一柏东义口巳
+2026-06-18 17:11:46,273 [INFO] Notification: [Sentence Mined] Text: - - - - - 己匹乞匹乞巳匹口么口 tD 口口口口柳一东厂柯一东柏一东 LD 柏一一柏东义口巳东义口 UD 东久口
+Translation: 
+2026-06-18 17:13:03,324 [INFO] Exported 2 entries to /home/mastroni/Desktop/cloned_repos/Je0Dev/miner-v2/mining/test_anki_export.csv
+2026-06-18 17:13:03,878 [INFO] Tesseract pre-warmed (eng)
+2026-06-18 17:13:51,503 [INFO] Backup created: /home/mastroni/Desktop/cloned_repos/Je0Dev/miner-v2/mining/backups/backup_20260618_171351
+2026-06-18 17:13:51,503 [INFO] Removed old backup: /home/mastroni/Desktop/cloned_repos/Je0Dev/miner-v2/mining/backups/backup_20260516_141536
+2026-06-18 17:13:54,481 [INFO] Copied to clipboard: test clipboard content
+2026-06-18 17:13:54,495 [INFO] Notification: [Test] Notification test
+2026-06-18 17:13:57,238 [INFO] Zone saved: zone_a (0,0 100x50)
+2026-06-18 17:13:57,238 [INFO] Zone saved: zone_b (100,100 200x50)
+2026-06-18 17:13:57,238 [INFO] Zone deleted: zone_a
+2026-06-18 17:13:57,239 [INFO] Zone deleted: zone_b
+2026-06-18 17:13:57,239 [INFO] Zone saved: test_zone (100,100 200x50)
+2026-06-18 17:13:57,239 [INFO] Zone deleted: test_zone
+2026-06-18 17:16:45,320 [INFO] Exported 2 entries to /home/mastroni/Desktop/cloned_repos/Je0Dev/miner-v2/mining/test_anki_export.csv
+2026-06-18 17:16:45,847 [INFO] Tesseract pre-warmed (eng)
+2026-06-18 17:17:23,348 [INFO] Backup created: /home/mastroni/Desktop/cloned_repos/Je0Dev/miner-v2/mining/backups/backup_20260618_171723
+2026-06-18 17:17:23,349 [INFO] Removed old backup: /home/mastroni/Desktop/cloned_repos/Je0Dev/miner-v2/mining/backups/backup_20260516_142039
+2026-06-18 17:17:26,228 [INFO] Copied to clipboard: test clipboard content
+2026-06-18 17:17:26,241 [INFO] Notification: [Test] Notification test
+2026-06-18 17:17:29,791 [INFO] Zone saved: zone_a (0,0 100x50)
+2026-06-18 17:17:29,791 [INFO] Zone saved: zone_b (100,100 200x50)
+2026-06-18 17:17:29,792 [INFO] Zone deleted: zone_a
+2026-06-18 17:17:29,793 [INFO] Zone deleted: zone_b
+2026-06-18 17:17:29,793 [INFO] Zone saved: test_zone (100,100 200x50)
+2026-06-18 17:17:29,793 [INFO] Zone deleted: test_zone
+2026-06-18 17:25:47,923 [INFO] Exported 2 entries to /home/mastroni/Desktop/cloned_repos/Je0Dev/miner-v2/mining/test_anki_export.csv
+2026-06-18 17:25:48,462 [INFO] Tesseract pre-warmed (eng)
+2026-06-18 17:26:22,559 [INFO] Backup created: /home/mastroni/Desktop/cloned_repos/Je0Dev/miner-v2/mining/backups/backup_20260618_172622
+2026-06-18 17:26:22,560 [INFO] Removed old backup: /home/mastroni/Desktop/cloned_repos/Je0Dev/miner-v2/mining/backups/backup_20260516_143150
+2026-06-18 17:26:25,495 [INFO] Copied to clipboard: test clipboard content
+2026-06-18 17:26:25,507 [INFO] Notification: [Test] Notification test
+2026-06-18 17:26:28,548 [INFO] Zone saved: zone_a (0,0 100x50)
+2026-06-18 17:26:28,548 [INFO] Zone saved: zone_b (100,100 200x50)
+2026-06-18 17:26:28,548 [INFO] Zone deleted: zone_a
+2026-06-18 17:26:28,549 [INFO] Zone deleted: zone_b
+2026-06-18 17:26:28,549 [INFO] Zone saved: test_zone (100,100 200x50)
+2026-06-18 17:26:28,550 [INFO] Zone deleted: test_zone
