@@ -1,5 +1,8 @@
 # Game Sentence Miner
 
+#### 🚨 The Project is not really finished at all, so please be aware!
+
+
 A Wayland-native (Hyprland) language learning sentence mining toolkit for gamers. Capture on-screen text from games — press a key, select a region, and the tool OCRs the text, translates it, records audio, copies to clipboard, and saves everything for Anki import.
 
 ## Quick Start
@@ -314,6 +317,10 @@ This project is free for personal and non-commercial use. You may use, modify, a
 3. **No warranty** — This software is provided "as is" without warranty of any kind, express or implied.
 
 > In other words just keep it Open Source please!
+
+## Contributions
+
+- If you want to suggest any imporvements whatsoever, feel free to do so!
 
 
 ---
