@@ -120,13 +120,17 @@ def _is_valid_for_translation(text: str, lang: str = "zh") -> bool:
     return False
 
 
-def translate_text(text: str, src: str = "zh", dest: str = "en") -> str:
-    """Translate text with caching for faster repeated translations."""
-    # Clean text first to remove garbage
+def translate_text(text: str, src: str = "zh", dest: str = "en") -> str | None:
+    """Translate text with caching for faster repeated translations.
+
+    Returns:
+        Translated text string, or None if translation failed (network error,
+        invalid input, etc.). Returns "" only if the input was valid but the
+        translator returned an empty result.
+    """
     cleaned = _clean_for_translation(text, src)
     if not _is_valid_for_translation(cleaned, src):
-        return ""
-    # Check cache first
+        return None
     cache_key = f"{src}:{dest}:{cleaned}"
     if cache_key in _translation_cache:
         return _translation_cache[cache_key]
@@ -139,17 +143,15 @@ def translate_text(text: str, src: str = "zh", dest: str = "en") -> str:
         )
         result = t.translate(cleaned)
         cleaned_result = _clean_translation(result.strip(), dest) if result else ""
-        # Cache result
         _translation_cache[cache_key] = cleaned_result
         if len(_translation_cache) > 1000:
-            # Clear oldest entries
             keys = list(_translation_cache.keys())
             for k in keys[:500]:
                 del _translation_cache[k]
         return cleaned_result
     except Exception as e:
         log.error(f"Translation failed: {e}")
-        return ""
+        return None
 
 
 def _find_best_audio_source() -> str | None:
@@ -200,7 +202,9 @@ def _test_audio_source(source: str) -> bool:
         return False
 
 
-def record_audio(output_path: Path, duration: int = 5, source: str = None) -> bool:
+def record_audio(
+    output_path: Path, duration: int = 5, source: str | None = None
+) -> bool:
     """Record audio from desktop/game. Returns False gracefully if no audio available."""
     if source is None:
         source = _find_best_audio_source()
