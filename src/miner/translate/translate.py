@@ -248,6 +248,8 @@ TTS_VOICES = {
     "de": "de-DE-KatjaNeural",
     "fr": "fr-FR-DeniseNeural",
     "es": "es-ES-ElviraNeural",
+    "el": "el-GR-AthinaNeural",
+    "pl": "pl-PL-ZofiaNeural",
     "ru": "ru-RU-SvetlanaNeural",
     "en": "en-US-AriaNeural",
 }
