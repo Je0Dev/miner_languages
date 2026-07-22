@@ -241,6 +241,59 @@ def record_audio(output_path: Path, duration: int = 5, source: str = None) -> bo
         return False
 
 
+TTS_VOICES = {
+    "zh": "zh-CN-XiaoxiaoNeural",
+    "ja": "ja-JP-NanamiNeural",
+    "ko": "ko-KR-SunHiNeural",
+    "de": "de-DE-KatjaNeural",
+    "fr": "fr-FR-DeniseNeural",
+    "es": "es-ES-ElviraNeural",
+    "ru": "ru-RU-SvetlanaNeural",
+    "en": "en-US-AriaNeural",
+}
+
+
+def speak_text(text: str, lang: str = "en", blocking: bool = True) -> bool:
+    """Speak text aloud using edge-tts with a language-appropriate voice.
+
+    Args:
+        text: Text to speak
+        lang: Language code (zh, ja, ko, de, fr, es, ru, en)
+        blocking: If True, wait for playback to finish
+
+    Returns:
+        True if speech succeeded, False otherwise
+    """
+    import tempfile, shutil
+
+    voice = TTS_VOICES.get(lang, TTS_VOICES["en"])
+    tmp = tempfile.NamedTemporaryFile(suffix=".mp3", delete=False)
+    tmp.close()
+    try:
+        subprocess.run(
+            ["edge-tts", "--voice", voice, "--text", text, "--write-media", tmp.name],
+            capture_output=True,
+            timeout=30,
+        )
+        if not Path(tmp.name).stat().st_size:
+            return False
+        player = "ffplay" if shutil.which("ffplay") else "paplay"
+        if player == "ffplay":
+            subprocess.run(
+                [player, "-nodisp", "-autoexit", "-loglevel", "quiet", tmp.name],
+                capture_output=True,
+                timeout=60,
+            )
+        else:
+            subprocess.run([player, tmp.name], capture_output=True, timeout=60)
+        return True
+    except Exception as e:
+        log.error(f"TTS failed: {e}")
+        return False
+    finally:
+        Path(tmp.name).unlink(missing_ok=True)
+
+
 def copy_to_clipboard(text: str):
     try:
         subprocess.run(
