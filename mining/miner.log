@@ -2571,3 +2571,6 @@ Translation:
 2026-06-18 17:26:28,549 [INFO] Zone deleted: zone_b
 2026-06-18 17:26:28,549 [INFO] Zone saved: test_zone (100,100 200x50)
 2026-06-18 17:26:28,550 [INFO] Zone deleted: test_zone
+2026-07-22 14:56:28,239 [INFO] Exported 2 entries to /home/mastro/miner_languages/mining/test_anki_export.csv
+2026-07-22 14:56:29,995 [INFO] Tesseract pre-warmed (eng)
+2026-07-22 14:58:03,263 [INFO] Backup created: /home/mastro/miner_languages/mining/backups/backup_20260722_145803

@@ -1,3 +1,9 @@
+"""Coordinate math utilities for capture zone geometry.
+
+Provides parsing, transformation, and calculation functions for screen
+coordinates and rectangles. Used by capture zones and region selection.
+"""
+
 from __future__ import annotations
 
 import math

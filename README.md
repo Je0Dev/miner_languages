@@ -306,17 +306,27 @@ The architecture, module structure, and implementation in this repository were d
 
 ## License
 
-Copyright © 2026 Je0Dev
+This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
 
-This project is free for personal and non-commercial use. You may use, modify, and distribute this software for non-commercial purposes only, provided that:
+## Documentation
 
-1. **Attribution is required** — Any use, distribution, or derivative work must give appropriate credit to the original author (Je0Dev), GameSentenceMiner, and LunaTranslator. This includes any application, website, or product that incorporates or is derived from this code.
+Detailed documentation is available in the [docs/](docs/) folder:
 
-2. **Commercial use is prohibited without permission** — You may not use this software, in whole or in part, to generate revenue or for any commercial purpose without explicit written permission from the author. This includes but is not limited to: selling, licensing, or bundling the software as part of a paid product; using it in a commercial service; or accepting donations specifically for this software.
-
-3. **No warranty** — This software is provided "as is" without warranty of any kind, express or implied.
-
-> In other words just keep it Open Source please!
+| Document | Description |
+|----------|-------------|
+| [docs/overview.md](docs/overview.md) | Architecture overview, data flow, subpackage map, dependency graph |
+| [docs/setup.md](docs/setup.md) | Installation guide, running instructions, troubleshooting |
+| [docs/architecture.md](docs/architecture.md) | High-level architecture diagrams and module interactions |
+| [docs/improvements.md](docs/improvements.md) | Recently fixed issues and known remaining work |
+| [docs/modules.md](docs/modules.md) | Top-level utility module reference |
+| [docs/capture.md](docs/capture.md) | Screen capture module |
+| [docs/ocr.md](docs/ocr.md) | OCR engine module |
+| [docs/text.md](docs/text.md) | Text processing and pronunciation |
+| [docs/translate.md](docs/translate.md) | Translation and TTS |
+| [docs/pipeline.md](docs/pipeline.md) | Mining pipeline orchestration |
+| [docs/storage.md](docs/storage.md) | Data persistence and export |
+| [docs/ui.md](docs/ui.md) | User interface modules |
+| [docs/yomitan.md](docs/yomitan.md) | Yomitan browser extension bridge |
 
 ## Contributions
 

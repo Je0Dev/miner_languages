@@ -1,6 +1,7 @@
 __pycache__/
 *.pyc
 *.pyo
+*.egg-info/
 mining/
 test_images/
 lib/
