@@ -152,18 +152,13 @@ def get_pinyin(text: str, tone_marks: bool = False) -> str:
 def get_romaji(text: str, lang: str = "ja") -> str:
     if lang == "ja":
         try:
-            import romkan
+            from pykakasi import kakasi
 
-            return romkan.to_roma(text)
+            k = kakasi()
+            parts = k.convert(text)
+            return "".join(p["hepburn"] for p in parts)
         except Exception:
-            try:
-                from pykakasi import kakasi
-
-                k = kakasi()
-                parts = k.convert(text)
-                return "".join(p["hepburn"] for p in parts)
-            except Exception:
-                pass
+            pass
     elif lang == "ko":
         try:
             from hangul_romanize import convert

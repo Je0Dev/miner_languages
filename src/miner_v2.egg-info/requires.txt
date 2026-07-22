@@ -1,0 +1,12 @@
+pillow
+numpy
+scipy
+pytesseract
+deep-translator
+flask
+websockets
+rapidfuzz
+regex
+jieba
+pypinyin
+edge-tts

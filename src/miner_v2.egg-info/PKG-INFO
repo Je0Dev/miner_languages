@@ -1,0 +1,17 @@
+Metadata-Version: 2.4
+Name: miner-v2
+Version: 2.0.0
+Summary: Game Sentence Miner v2 - Language learning sentence mining toolkit
+Requires-Python: >=3.10
+Requires-Dist: pillow
+Requires-Dist: numpy
+Requires-Dist: scipy
+Requires-Dist: pytesseract
+Requires-Dist: deep-translator
+Requires-Dist: flask
+Requires-Dist: websockets
+Requires-Dist: rapidfuzz
+Requires-Dist: regex
+Requires-Dist: jieba
+Requires-Dist: pypinyin
+Requires-Dist: edge-tts

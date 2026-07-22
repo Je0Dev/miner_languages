@@ -1,6 +1,6 @@
 [build-system]
 requires = ["setuptools>=64"]
-build-backend = "setuptools.backends._legacy:_Backend"
+build-backend = "setuptools.build_meta"
 
 [project]
 name = "miner-v2"
@@ -19,7 +19,7 @@ dependencies = [
     "regex",
     "jieba",
     "pypinyin",
-    "romkan",
+    "edge-tts",
 ]
 
 [tool.setuptools.packages.find]
